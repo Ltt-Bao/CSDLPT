@@ -1,0 +1,1001 @@
+ShipID,Origin_Country,Weight,Priority,Status
+SHP0001,Vietnam,384.9,High,Delivered
+SHP0002,Japan,938.0,Critical,Delivered
+SHP0003,Australia,602.2,High,In Transit
+SHP0004,Australia,780.7,High,Cleared Customs
+SHP0005,USA,839.0,Medium,Cleared Customs
+SHP0006,Japan,924.7,Medium,Delivered
+SHP0007,Vietnam,951.1,Medium,Cleared Customs
+SHP0008,Australia,885.8,Critical,Pending
+SHP0009,USA,597.0,Critical,Cleared Customs
+SHP0010,Australia,843.3,High,In Transit
+SHP0011,EU,407.9,Critical,In Transit
+SHP0012,Australia,890.2,High,In Transit
+SHP0013,Japan,266.4,Low,Pending
+SHP0014,Australia,164.7,Critical,Cleared Customs
+SHP0015,USA,793.0,Medium,Delivered
+SHP0016,Vietnam,611.5,Medium,Cleared Customs
+SHP0017,Japan,940.0,Critical,Pending
+SHP0018,Vietnam,83.6,Critical,Pending
+SHP0019,Vietnam,929.1,Medium,In Transit
+SHP0020,Australia,688.1,High,Cleared Customs
+SHP0021,EU,639.2,High,Delivered
+SHP0022,Japan,219.7,Medium,In Transit
+SHP0023,USA,427.0,Low,Pending
+SHP0024,EU,704.4,Medium,Pending
+SHP0025,USA,969.2,Low,In Transit
+SHP0026,EU,739.5,Critical,Pending
+SHP0027,EU,563.7,Low,Delivered
+SHP0028,EU,790.8,Low,Delivered
+SHP0029,Japan,198.2,Medium,In Transit
+SHP0030,Brazil,199.6,Low,Pending
+SHP0031,Australia,381.4,Critical,Pending
+SHP0032,Brazil,667.3,Medium,Delivered
+SHP0033,Vietnam,852.5,Critical,In Transit
+SHP0034,Brazil,393.3,Medium,In Transit
+SHP0035,Japan,519.5,High,Pending
+SHP0036,Japan,263.7,Critical,Delivered
+SHP0037,USA,463.9,High,Delivered
+SHP0038,Brazil,858.6,Critical,In Transit
+SHP0039,Australia,724.7,Low,Delivered
+SHP0040,EU,127.1,Critical,In Transit
+SHP0041,Vietnam,188.7,Medium,In Transit
+SHP0042,USA,512.0,High,Delivered
+SHP0043,Vietnam,157.6,Critical,Delivered
+SHP0044,Japan,179.8,Critical,In Transit
+SHP0045,Japan,142.6,Medium,In Transit
+SHP0046,USA,485.3,Low,Delivered
+SHP0047,EU,651.5,High,Delivered
+SHP0048,Brazil,533.0,High,Delivered
+SHP0049,Japan,349.9,Critical,Cleared Customs
+SHP0050,EU,628.3,High,Pending
+SHP0051,Vietnam,112.0,Low,In Transit
+SHP0052,USA,314.9,High,In Transit
+SHP0053,USA,534.5,Medium,Cleared Customs
+SHP0054,USA,620.9,High,Delivered
+SHP0055,Brazil,284.2,High,Delivered
+SHP0056,Brazil,85.2,Low,In Transit
+SHP0057,Japan,239.5,Medium,Cleared Customs
+SHP0058,Brazil,171.1,Medium,In Transit
+SHP0059,Brazil,701.1,Medium,Pending
+SHP0060,Japan,160.4,Low,Cleared Customs
+SHP0061,USA,163.1,Critical,Cleared Customs
+SHP0062,Australia,93.4,Medium,Pending
+SHP0063,USA,435.4,Low,In Transit
+SHP0064,Japan,83.1,Critical,In Transit
+SHP0065,Australia,736.5,High,In Transit
+SHP0066,Australia,865.8,Low,Pending
+SHP0067,Australia,606.3,Low,In Transit
+SHP0068,Brazil,342.8,Low,In Transit
+SHP0069,Vietnam,991.6,High,Delivered
+SHP0070,Australia,399.8,Medium,Cleared Customs
+SHP0071,Brazil,824.8,High,Delivered
+SHP0072,Japan,478.7,Medium,In Transit
+SHP0073,USA,573.0,High,In Transit
+SHP0074,Japan,403.1,Medium,Delivered
+SHP0075,Vietnam,190.4,Critical,In Transit
+SHP0076,Vietnam,607.9,Low,Pending
+SHP0077,Japan,474.8,Low,In Transit
+SHP0078,EU,332.4,Medium,Pending
+SHP0079,Vietnam,814.4,Critical,Delivered
+SHP0080,Vietnam,287.5,High,Pending
+SHP0081,Australia,448.3,Medium,Cleared Customs
+SHP0082,Brazil,355.2,Medium,Cleared Customs
+SHP0083,Japan,482.5,Medium,Delivered
+SHP0084,Australia,473.8,High,In Transit
+SHP0085,Australia,139.3,Critical,Pending
+SHP0086,Vietnam,919.8,Medium,Delivered
+SHP0087,Vietnam,800.6,Critical,Delivered
+SHP0088,Brazil,256.1,High,Delivered
+SHP0089,Australia,521.7,Critical,In Transit
+SHP0090,Japan,468.0,Low,Pending
+SHP0091,Australia,400.7,Critical,In Transit
+SHP0092,Brazil,929.5,Critical,In Transit
+SHP0093,Vietnam,421.7,High,Delivered
+SHP0094,Brazil,217.0,Critical,In Transit
+SHP0095,Australia,418.0,High,In Transit
+SHP0096,EU,653.4,High,Pending
+SHP0097,Australia,245.6,Critical,Pending
+SHP0098,Brazil,628.8,Critical,Delivered
+SHP0099,EU,164.9,High,Cleared Customs
+SHP0100,Australia,851.8,Low,Delivered
+SHP0101,Japan,412.9,High,Pending
+SHP0102,Japan,870.7,Medium,Delivered
+SHP0103,USA,327.5,Low,In Transit
+SHP0104,EU,737.9,Critical,In Transit
+SHP0105,Vietnam,855.9,Medium,Pending
+SHP0106,Brazil,841.0,Low,In Transit
+SHP0107,USA,492.3,High,Cleared Customs
+SHP0108,EU,635.1,High,Delivered
+SHP0109,EU,432.0,Low,In Transit
+SHP0110,EU,330.4,High,Cleared Customs
+SHP0111,Brazil,379.1,Critical,Pending
+SHP0112,Australia,182.1,High,In Transit
+SHP0113,Japan,38.7,Critical,Pending
+SHP0114,Vietnam,417.7,High,Delivered
+SHP0115,USA,651.0,Low,Delivered
+SHP0116,Australia,220.7,Medium,Delivered
+SHP0117,Vietnam,207.2,Medium,Pending
+SHP0118,USA,806.9,High,Pending
+SHP0119,Vietnam,18.6,Low,In Transit
+SHP0120,Australia,500.7,High,Delivered
+SHP0121,Australia,469.7,High,Pending
+SHP0122,Brazil,573.3,Critical,Delivered
+SHP0123,Vietnam,393.1,High,In Transit
+SHP0124,USA,892.9,High,Cleared Customs
+SHP0125,USA,301.1,Medium,Pending
+SHP0126,EU,611.1,Low,Cleared Customs
+SHP0127,Japan,887.0,Medium,In Transit
+SHP0128,USA,324.4,High,Pending
+SHP0129,Vietnam,421.7,High,Pending
+SHP0130,Japan,198.5,Low,Pending
+SHP0131,Japan,385.1,High,Delivered
+SHP0132,Brazil,651.1,Low,Delivered
+SHP0133,USA,294.1,Critical,Pending
+SHP0134,Brazil,633.4,High,Delivered
+SHP0135,USA,982.5,Medium,Delivered
+SHP0136,EU,961.2,High,Pending
+SHP0137,Japan,418.8,High,Delivered
+SHP0138,Australia,621.1,High,Pending
+SHP0139,Vietnam,225.5,Medium,In Transit
+SHP0140,Australia,899.0,High,Delivered
+SHP0141,EU,928.5,Medium,Cleared Customs
+SHP0142,EU,582.5,Low,In Transit
+SHP0143,USA,786.7,Medium,Delivered
+SHP0144,EU,468.0,High,In Transit
+SHP0145,USA,282.0,Low,In Transit
+SHP0146,Japan,626.0,Critical,In Transit
+SHP0147,Japan,536.4,Critical,Pending
+SHP0148,Japan,904.8,Critical,Cleared Customs
+SHP0149,EU,207.5,Low,Cleared Customs
+SHP0150,EU,162.3,High,In Transit
+SHP0151,USA,877.4,Medium,In Transit
+SHP0152,Brazil,220.1,Medium,Pending
+SHP0153,Japan,111.5,Medium,Pending
+SHP0154,Japan,434.9,Low,Delivered
+SHP0155,Japan,676.5,Low,Pending
+SHP0156,Brazil,805.2,High,Cleared Customs
+SHP0157,Australia,212.8,Medium,In Transit
+SHP0158,Japan,737.4,Medium,In Transit
+SHP0159,Vietnam,340.1,Critical,In Transit
+SHP0160,Australia,737.6,Medium,Delivered
+SHP0161,Japan,377.1,Critical,Cleared Customs
+SHP0162,Vietnam,697.2,Low,Cleared Customs
+SHP0163,Brazil,64.6,Low,Delivered
+SHP0164,USA,242.1,High,Delivered
+SHP0165,Vietnam,175.5,High,Delivered
+SHP0166,Brazil,126.9,Critical,Pending
+SHP0167,EU,195.5,High,Pending
+SHP0168,Australia,349.4,High,Cleared Customs
+SHP0169,Brazil,565.4,High,In Transit
+SHP0170,Vietnam,891.4,Medium,Delivered
+SHP0171,Brazil,466.1,Low,In Transit
+SHP0172,Brazil,941.0,Critical,Pending
+SHP0173,EU,340.4,Medium,In Transit
+SHP0174,Brazil,562.2,Critical,Delivered
+SHP0175,USA,743.7,Low,Cleared Customs
+SHP0176,Japan,395.3,Low,In Transit
+SHP0177,Japan,936.6,Low,Pending
+SHP0178,Australia,776.8,Medium,In Transit
+SHP0179,Japan,110.4,High,In Transit
+SHP0180,Brazil,158.9,Critical,Cleared Customs
+SHP0181,Brazil,238.7,Medium,Cleared Customs
+SHP0182,Australia,379.8,Medium,Pending
+SHP0183,EU,345.2,Medium,Cleared Customs
+SHP0184,Australia,511.0,Critical,Pending
+SHP0185,EU,804.1,High,Pending
+SHP0186,EU,922.4,Low,Pending
+SHP0187,Japan,548.4,Medium,In Transit
+SHP0188,Australia,231.9,Medium,Pending
+SHP0189,EU,562.0,Low,Delivered
+SHP0190,USA,616.6,Medium,In Transit
+SHP0191,Vietnam,246.9,High,Cleared Customs
+SHP0192,Brazil,525.8,High,Delivered
+SHP0193,Vietnam,251.6,Low,Delivered
+SHP0194,Brazil,402.9,Critical,Cleared Customs
+SHP0195,Vietnam,116.5,High,Delivered
+SHP0196,Vietnam,391.1,Medium,Pending
+SHP0197,Japan,515.7,Medium,In Transit
+SHP0198,Vietnam,965.5,Medium,Delivered
+SHP0199,Australia,760.1,High,Delivered
+SHP0200,USA,995.8,High,Delivered
+SHP0201,Brazil,998.9,Medium,Cleared Customs
+SHP0202,Brazil,798.2,Low,Pending
+SHP0203,Vietnam,516.2,Low,Pending
+SHP0204,EU,22.4,Medium,Cleared Customs
+SHP0205,USA,278.5,Critical,Cleared Customs
+SHP0206,Australia,741.0,Low,In Transit
+SHP0207,Japan,221.4,Low,In Transit
+SHP0208,Japan,923.8,High,Cleared Customs
+SHP0209,Australia,376.2,Medium,Pending
+SHP0210,Australia,214.5,Medium,In Transit
+SHP0211,EU,130.0,Medium,Cleared Customs
+SHP0212,Japan,452.6,High,Cleared Customs
+SHP0213,Australia,649.8,Critical,Delivered
+SHP0214,Japan,512.6,High,Cleared Customs
+SHP0215,Japan,398.6,Medium,Delivered
+SHP0216,Australia,962.6,Critical,Cleared Customs
+SHP0217,Australia,102.6,High,Delivered
+SHP0218,Australia,128.2,Critical,In Transit
+SHP0219,USA,209.9,Medium,Delivered
+SHP0220,Australia,894.4,High,Cleared Customs
+SHP0221,Vietnam,628.7,Medium,Delivered
+SHP0222,Brazil,241.2,Medium,Cleared Customs
+SHP0223,Australia,624.4,Medium,Pending
+SHP0224,USA,324.2,Low,Cleared Customs
+SHP0225,Brazil,132.2,High,In Transit
+SHP0226,Japan,654.0,Low,Cleared Customs
+SHP0227,Vietnam,424.3,Low,In Transit
+SHP0228,Japan,455.2,High,In Transit
+SHP0229,EU,607.7,Medium,Cleared Customs
+SHP0230,Australia,392.5,Low,Pending
+SHP0231,Brazil,476.3,Medium,Pending
+SHP0232,Australia,499.2,High,Pending
+SHP0233,USA,51.5,Low,In Transit
+SHP0234,USA,267.2,Medium,Pending
+SHP0235,USA,870.1,Medium,Pending
+SHP0236,Vietnam,103.0,Medium,Pending
+SHP0237,Brazil,110.4,Medium,Delivered
+SHP0238,EU,172.4,Critical,Delivered
+SHP0239,Brazil,746.1,Critical,Cleared Customs
+SHP0240,EU,976.9,Critical,In Transit
+SHP0241,Japan,779.4,High,In Transit
+SHP0242,Brazil,393.7,High,Delivered
+SHP0243,Japan,281.6,High,Cleared Customs
+SHP0244,EU,860.3,Medium,In Transit
+SHP0245,Japan,946.1,Critical,Pending
+SHP0246,Australia,729.7,Critical,Pending
+SHP0247,USA,319.7,Low,In Transit
+SHP0248,Vietnam,111.1,Low,Delivered
+SHP0249,Japan,970.5,High,Cleared Customs
+SHP0250,Australia,711.9,Critical,Pending
+SHP0251,Vietnam,15.5,Low,In Transit
+SHP0252,USA,585.8,Medium,Pending
+SHP0253,Brazil,466.5,Medium,Delivered
+SHP0254,USA,602.9,Medium,Delivered
+SHP0255,Vietnam,296.1,Low,In Transit
+SHP0256,USA,503.2,Low,Delivered
+SHP0257,EU,26.7,Critical,Pending
+SHP0258,Vietnam,722.3,Low,In Transit
+SHP0259,Japan,802.1,High,Pending
+SHP0260,EU,14.8,Critical,Delivered
+SHP0261,Vietnam,31.9,High,Pending
+SHP0262,Japan,253.4,Critical,Pending
+SHP0263,Brazil,164.5,Critical,Cleared Customs
+SHP0264,Japan,152.3,Low,Delivered
+SHP0265,Vietnam,278.6,Medium,Cleared Customs
+SHP0266,Japan,387.9,Medium,Cleared Customs
+SHP0267,EU,104.7,Critical,Delivered
+SHP0268,Vietnam,337.4,Low,Cleared Customs
+SHP0269,Vietnam,723.0,Critical,Cleared Customs
+SHP0270,Brazil,12.7,Low,Delivered
+SHP0271,Australia,110.0,High,Pending
+SHP0272,Brazil,323.8,Medium,Pending
+SHP0273,Japan,955.9,Low,In Transit
+SHP0274,Vietnam,279.0,Low,Delivered
+SHP0275,Brazil,480.1,Critical,Delivered
+SHP0276,USA,868.6,High,In Transit
+SHP0277,Brazil,987.5,High,Delivered
+SHP0278,Brazil,491.1,High,Cleared Customs
+SHP0279,EU,975.5,Critical,Pending
+SHP0280,Australia,683.0,High,In Transit
+SHP0281,USA,54.5,Medium,Pending
+SHP0282,USA,655.3,Medium,Cleared Customs
+SHP0283,Vietnam,366.9,High,In Transit
+SHP0284,Australia,198.5,High,Pending
+SHP0285,USA,273.4,Low,In Transit
+SHP0286,EU,933.1,High,In Transit
+SHP0287,Japan,63.7,Low,Pending
+SHP0288,USA,908.8,Medium,Delivered
+SHP0289,Vietnam,682.2,Medium,Cleared Customs
+SHP0290,Brazil,179.8,Critical,Cleared Customs
+SHP0291,Brazil,712.2,Critical,In Transit
+SHP0292,Brazil,578.4,Low,In Transit
+SHP0293,Japan,380.6,Low,Pending
+SHP0294,USA,708.3,Medium,Cleared Customs
+SHP0295,Vietnam,953.0,Medium,Pending
+SHP0296,Brazil,982.2,Low,Pending
+SHP0297,Australia,445.3,Medium,Delivered
+SHP0298,Brazil,446.6,Low,In Transit
+SHP0299,Brazil,540.0,High,In Transit
+SHP0300,Australia,716.6,High,In Transit
+SHP0301,USA,118.4,Medium,Delivered
+SHP0302,USA,896.1,High,Delivered
+SHP0303,Japan,647.6,Medium,Delivered
+SHP0304,EU,44.0,Medium,Cleared Customs
+SHP0305,Australia,213.9,Medium,In Transit
+SHP0306,Brazil,422.9,High,Cleared Customs
+SHP0307,Brazil,910.2,Critical,Delivered
+SHP0308,Japan,151.9,Low,In Transit
+SHP0309,EU,726.9,Critical,Cleared Customs
+SHP0310,Japan,851.7,Low,Pending
+SHP0311,USA,270.0,Critical,Cleared Customs
+SHP0312,Japan,260.6,Low,Cleared Customs
+SHP0313,USA,91.0,Critical,Pending
+SHP0314,EU,912.8,High,Delivered
+SHP0315,EU,254.9,Medium,Cleared Customs
+SHP0316,Brazil,144.9,Medium,In Transit
+SHP0317,Brazil,539.9,Critical,Cleared Customs
+SHP0318,Australia,855.0,Low,Cleared Customs
+SHP0319,USA,157.0,Low,Delivered
+SHP0320,Vietnam,574.2,High,In Transit
+SHP0321,Australia,333.5,High,Delivered
+SHP0322,USA,547.2,Medium,In Transit
+SHP0323,Australia,504.1,Medium,Cleared Customs
+SHP0324,Vietnam,146.2,Medium,In Transit
+SHP0325,Vietnam,607.5,High,Delivered
+SHP0326,USA,638.0,Medium,In Transit
+SHP0327,Australia,190.9,Medium,Pending
+SHP0328,EU,38.7,Low,Delivered
+SHP0329,USA,159.8,High,In Transit
+SHP0330,USA,306.4,Critical,In Transit
+SHP0331,USA,902.6,Medium,Pending
+SHP0332,Vietnam,382.8,Critical,In Transit
+SHP0333,Australia,688.0,Critical,Cleared Customs
+SHP0334,Japan,741.5,Critical,In Transit
+SHP0335,Brazil,594.6,Critical,Cleared Customs
+SHP0336,EU,693.4,Medium,Cleared Customs
+SHP0337,Vietnam,242.9,Critical,Cleared Customs
+SHP0338,Brazil,804.2,Medium,Delivered
+SHP0339,USA,989.3,Medium,Delivered
+SHP0340,Vietnam,979.1,Low,Delivered
+SHP0341,Japan,288.2,Medium,Delivered
+SHP0342,USA,873.6,Critical,Delivered
+SHP0343,Japan,799.8,Low,Pending
+SHP0344,Brazil,248.5,Critical,Pending
+SHP0345,Australia,434.9,Critical,Cleared Customs
+SHP0346,Vietnam,359.1,Low,Cleared Customs
+SHP0347,USA,67.0,Low,Pending
+SHP0348,Japan,615.3,Medium,Delivered
+SHP0349,Brazil,356.3,Low,Cleared Customs
+SHP0350,EU,721.8,Critical,Delivered
+SHP0351,EU,710.3,High,Delivered
+SHP0352,EU,529.1,Low,Cleared Customs
+SHP0353,Japan,373.4,High,Delivered
+SHP0354,Brazil,924.1,Medium,Cleared Customs
+SHP0355,USA,578.4,High,In Transit
+SHP0356,Brazil,102.5,High,Delivered
+SHP0357,Brazil,376.5,Critical,Pending
+SHP0358,Brazil,193.4,High,In Transit
+SHP0359,EU,731.9,Medium,Cleared Customs
+SHP0360,USA,895.4,Critical,Delivered
+SHP0361,Brazil,578.3,High,Delivered
+SHP0362,Brazil,782.6,Critical,Cleared Customs
+SHP0363,USA,516.1,Medium,Delivered
+SHP0364,USA,778.6,Critical,In Transit
+SHP0365,Brazil,376.9,Low,Delivered
+SHP0366,Japan,55.6,Critical,Delivered
+SHP0367,Japan,346.7,High,Delivered
+SHP0368,Vietnam,666.8,Medium,In Transit
+SHP0369,EU,478.5,High,Pending
+SHP0370,Australia,528.1,Critical,Delivered
+SHP0371,Vietnam,998.1,Medium,Cleared Customs
+SHP0372,Brazil,300.1,Critical,Cleared Customs
+SHP0373,EU,621.1,High,In Transit
+SHP0374,Vietnam,98.1,Medium,In Transit
+SHP0375,USA,494.3,Medium,In Transit
+SHP0376,USA,166.4,High,In Transit
+SHP0377,Australia,481.3,Critical,In Transit
+SHP0378,Japan,460.8,Low,In Transit
+SHP0379,Australia,121.6,Medium,In Transit
+SHP0380,Japan,913.6,Medium,Delivered
+SHP0381,USA,35.5,Low,Pending
+SHP0382,Australia,313.5,High,In Transit
+SHP0383,USA,331.4,Low,Delivered
+SHP0384,EU,561.5,High,Delivered
+SHP0385,Australia,846.9,High,In Transit
+SHP0386,Vietnam,992.4,Critical,Cleared Customs
+SHP0387,Brazil,718.0,Low,Cleared Customs
+SHP0388,Japan,56.0,Critical,Delivered
+SHP0389,Brazil,555.0,Critical,In Transit
+SHP0390,USA,616.3,High,Pending
+SHP0391,USA,740.0,High,Cleared Customs
+SHP0392,Australia,623.9,Critical,Cleared Customs
+SHP0393,EU,490.4,Critical,In Transit
+SHP0394,EU,744.3,Low,In Transit
+SHP0395,Vietnam,83.9,Critical,Pending
+SHP0396,EU,770.0,Medium,Cleared Customs
+SHP0397,Vietnam,689.0,Medium,In Transit
+SHP0398,Australia,492.6,Critical,In Transit
+SHP0399,Australia,555.2,High,Cleared Customs
+SHP0400,Australia,497.8,Critical,Delivered
+SHP0401,Brazil,761.8,Low,Cleared Customs
+SHP0402,Brazil,484.4,Critical,Pending
+SHP0403,USA,34.6,Low,Cleared Customs
+SHP0404,Brazil,860.6,Critical,In Transit
+SHP0405,EU,944.6,High,In Transit
+SHP0406,Brazil,123.9,High,In Transit
+SHP0407,Australia,159.5,Critical,Pending
+SHP0408,EU,142.8,High,In Transit
+SHP0409,Japan,263.3,Medium,In Transit
+SHP0410,USA,146.0,Medium,In Transit
+SHP0411,Vietnam,372.7,Medium,Pending
+SHP0412,Brazil,640.3,Critical,In Transit
+SHP0413,Vietnam,491.7,Medium,Cleared Customs
+SHP0414,EU,160.1,Critical,Pending
+SHP0415,Brazil,919.9,Critical,Delivered
+SHP0416,Vietnam,114.3,Low,Pending
+SHP0417,USA,758.5,Low,Delivered
+SHP0418,USA,442.9,High,Cleared Customs
+SHP0419,Brazil,797.5,Medium,Cleared Customs
+SHP0420,Vietnam,949.6,Low,Delivered
+SHP0421,EU,515.5,High,In Transit
+SHP0422,USA,663.7,Low,Delivered
+SHP0423,Australia,519.3,High,In Transit
+SHP0424,Japan,924.0,Critical,Pending
+SHP0425,EU,231.8,High,In Transit
+SHP0426,USA,149.6,Critical,In Transit
+SHP0427,EU,759.0,High,In Transit
+SHP0428,Brazil,683.7,Low,Pending
+SHP0429,Australia,932.6,High,Pending
+SHP0430,Brazil,976.2,Medium,In Transit
+SHP0431,Vietnam,919.5,Low,Cleared Customs
+SHP0432,USA,962.6,Medium,Delivered
+SHP0433,Japan,689.4,Medium,Delivered
+SHP0434,Australia,539.9,High,Cleared Customs
+SHP0435,Japan,231.1,Low,Pending
+SHP0436,EU,559.5,High,Delivered
+SHP0437,Australia,653.0,Critical,Cleared Customs
+SHP0438,Vietnam,713.5,High,In Transit
+SHP0439,Australia,769.5,Low,Pending
+SHP0440,Brazil,941.0,Critical,Cleared Customs
+SHP0441,Vietnam,574.1,Low,Cleared Customs
+SHP0442,Japan,599.7,Medium,Delivered
+SHP0443,Japan,170.1,Medium,In Transit
+SHP0444,Australia,175.9,Low,Cleared Customs
+SHP0445,Australia,533.1,High,In Transit
+SHP0446,Australia,756.1,Low,Cleared Customs
+SHP0447,Japan,674.6,High,Delivered
+SHP0448,Japan,388.2,Critical,Cleared Customs
+SHP0449,EU,676.6,High,Pending
+SHP0450,Vietnam,986.0,Medium,In Transit
+SHP0451,Brazil,910.7,High,Pending
+SHP0452,Japan,137.3,High,In Transit
+SHP0453,Japan,294.8,Medium,Pending
+SHP0454,Australia,700.6,Critical,Cleared Customs
+SHP0455,Vietnam,689.2,Medium,In Transit
+SHP0456,Vietnam,983.1,Critical,Cleared Customs
+SHP0457,USA,294.3,Low,Pending
+SHP0458,Japan,826.2,High,In Transit
+SHP0459,Brazil,88.6,Critical,Delivered
+SHP0460,Vietnam,778.5,High,In Transit
+SHP0461,EU,877.4,Medium,Delivered
+SHP0462,EU,980.8,Low,Cleared Customs
+SHP0463,Japan,524.4,Critical,Delivered
+SHP0464,Vietnam,730.6,High,Pending
+SHP0465,Brazil,910.7,High,Delivered
+SHP0466,USA,513.4,Medium,Delivered
+SHP0467,EU,259.0,High,Delivered
+SHP0468,Australia,636.7,High,In Transit
+SHP0469,USA,136.2,Critical,Pending
+SHP0470,Vietnam,944.6,Low,In Transit
+SHP0471,USA,329.8,High,In Transit
+SHP0472,Brazil,437.9,High,Pending
+SHP0473,USA,357.8,Critical,Cleared Customs
+SHP0474,EU,941.0,Low,Pending
+SHP0475,Japan,538.8,Critical,In Transit
+SHP0476,Brazil,149.8,Critical,Cleared Customs
+SHP0477,USA,725.9,High,Delivered
+SHP0478,Australia,684.9,Low,Pending
+SHP0479,Vietnam,97.4,Low,Delivered
+SHP0480,Vietnam,858.0,Medium,Cleared Customs
+SHP0481,EU,37.7,High,Cleared Customs
+SHP0482,Vietnam,245.0,Low,Delivered
+SHP0483,EU,924.6,High,Pending
+SHP0484,EU,874.7,Medium,Pending
+SHP0485,Australia,774.9,High,Cleared Customs
+SHP0486,EU,86.4,High,Pending
+SHP0487,Vietnam,840.4,High,In Transit
+SHP0488,Japan,847.1,Critical,Cleared Customs
+SHP0489,Japan,566.9,Medium,Pending
+SHP0490,USA,131.1,Low,Cleared Customs
+SHP0491,USA,611.9,Medium,Pending
+SHP0492,EU,902.6,Critical,In Transit
+SHP0493,Japan,137.0,Critical,Delivered
+SHP0494,Japan,724.1,Low,Delivered
+SHP0495,Japan,988.9,Low,Cleared Customs
+SHP0496,EU,58.0,Critical,In Transit
+SHP0497,Australia,956.3,Medium,In Transit
+SHP0498,Australia,976.4,Medium,In Transit
+SHP0499,Vietnam,826.9,Low,Delivered
+SHP0500,Vietnam,624.4,Low,Pending
+SHP0501,Japan,295.4,Low,In Transit
+SHP0502,Australia,824.8,High,Cleared Customs
+SHP0503,Brazil,168.3,Low,In Transit
+SHP0504,USA,918.0,Medium,Pending
+SHP0505,Vietnam,248.3,High,In Transit
+SHP0506,Vietnam,27.0,Critical,Pending
+SHP0507,Vietnam,736.7,High,Cleared Customs
+SHP0508,Australia,877.9,Critical,Delivered
+SHP0509,Vietnam,948.0,Medium,In Transit
+SHP0510,USA,883.0,Medium,Delivered
+SHP0511,Brazil,72.5,Low,In Transit
+SHP0512,Vietnam,750.0,Medium,Cleared Customs
+SHP0513,USA,507.9,Medium,Cleared Customs
+SHP0514,EU,638.5,Critical,In Transit
+SHP0515,Brazil,279.8,High,In Transit
+SHP0516,Brazil,663.6,Critical,Cleared Customs
+SHP0517,Vietnam,396.3,High,Pending
+SHP0518,Australia,849.8,Medium,Pending
+SHP0519,Brazil,400.0,Critical,Delivered
+SHP0520,Vietnam,622.7,Medium,In Transit
+SHP0521,Japan,183.3,High,Pending
+SHP0522,USA,238.3,Low,Cleared Customs
+SHP0523,Vietnam,939.5,Low,Pending
+SHP0524,Japan,781.5,High,Cleared Customs
+SHP0525,Australia,222.2,High,In Transit
+SHP0526,USA,506.0,Low,Cleared Customs
+SHP0527,Vietnam,480.0,Medium,Pending
+SHP0528,Japan,945.8,Critical,Cleared Customs
+SHP0529,Japan,77.5,Critical,Delivered
+SHP0530,Japan,260.1,Critical,In Transit
+SHP0531,Vietnam,296.1,Critical,Pending
+SHP0532,Australia,518.8,Low,Cleared Customs
+SHP0533,Japan,735.7,High,Pending
+SHP0534,Brazil,310.5,High,In Transit
+SHP0535,Vietnam,667.3,Medium,Delivered
+SHP0536,Australia,899.3,Low,Delivered
+SHP0537,EU,323.0,Medium,Pending
+SHP0538,USA,203.1,Medium,Pending
+SHP0539,Japan,384.5,Critical,Cleared Customs
+SHP0540,USA,974.2,Low,Cleared Customs
+SHP0541,Brazil,844.9,Critical,Delivered
+SHP0542,USA,170.1,High,Delivered
+SHP0543,Vietnam,830.8,Critical,Pending
+SHP0544,USA,283.9,Critical,In Transit
+SHP0545,Japan,933.9,Low,Pending
+SHP0546,Brazil,72.7,High,In Transit
+SHP0547,EU,449.6,High,In Transit
+SHP0548,Brazil,563.6,Low,Pending
+SHP0549,Japan,970.4,Medium,Cleared Customs
+SHP0550,USA,325.8,Low,In Transit
+SHP0551,Japan,593.2,High,Cleared Customs
+SHP0552,Australia,777.2,Medium,Delivered
+SHP0553,EU,615.8,Critical,In Transit
+SHP0554,EU,834.5,Medium,Pending
+SHP0555,Japan,184.4,Low,In Transit
+SHP0556,Brazil,534.1,Low,Delivered
+SHP0557,Brazil,89.0,Low,Cleared Customs
+SHP0558,USA,953.3,Medium,Cleared Customs
+SHP0559,Brazil,259.5,Low,Delivered
+SHP0560,EU,214.1,Medium,Delivered
+SHP0561,USA,144.7,Low,In Transit
+SHP0562,Australia,690.4,Critical,Delivered
+SHP0563,Vietnam,852.0,Medium,Cleared Customs
+SHP0564,USA,541.9,Critical,In Transit
+SHP0565,USA,691.9,Low,In Transit
+SHP0566,Brazil,967.6,High,Cleared Customs
+SHP0567,USA,191.6,Low,Cleared Customs
+SHP0568,Australia,715.5,Low,Delivered
+SHP0569,Vietnam,520.0,Low,Cleared Customs
+SHP0570,Brazil,907.5,Low,Delivered
+SHP0571,Australia,258.3,Low,Delivered
+SHP0572,EU,424.5,High,Pending
+SHP0573,EU,257.1,Critical,Pending
+SHP0574,USA,241.3,Medium,In Transit
+SHP0575,Brazil,474.4,Low,Cleared Customs
+SHP0576,Australia,717.0,Medium,Cleared Customs
+SHP0577,Japan,148.5,Medium,In Transit
+SHP0578,Brazil,487.5,Low,Pending
+SHP0579,Vietnam,337.2,Critical,In Transit
+SHP0580,Japan,303.7,Medium,Delivered
+SHP0581,Australia,925.8,Medium,Cleared Customs
+SHP0582,USA,470.2,High,Delivered
+SHP0583,USA,488.0,Low,Cleared Customs
+SHP0584,USA,922.7,Critical,In Transit
+SHP0585,Vietnam,589.9,Low,In Transit
+SHP0586,Australia,591.8,Medium,In Transit
+SHP0587,Japan,741.1,Medium,Cleared Customs
+SHP0588,USA,732.8,Critical,Delivered
+SHP0589,Australia,286.2,Low,In Transit
+SHP0590,Vietnam,673.7,High,Pending
+SHP0591,USA,296.9,Critical,Delivered
+SHP0592,Vietnam,329.6,Low,In Transit
+SHP0593,EU,844.0,Low,Pending
+SHP0594,EU,702.4,Critical,Cleared Customs
+SHP0595,USA,859.8,Low,Pending
+SHP0596,Vietnam,195.0,Low,Delivered
+SHP0597,Australia,117.9,Low,Cleared Customs
+SHP0598,USA,561.5,High,In Transit
+SHP0599,EU,585.5,Critical,Delivered
+SHP0600,EU,801.7,Medium,Cleared Customs
+SHP0601,Australia,996.5,Low,Pending
+SHP0602,EU,421.2,Critical,In Transit
+SHP0603,Australia,657.8,Low,Delivered
+SHP0604,EU,227.4,Medium,In Transit
+SHP0605,Australia,576.6,Critical,Delivered
+SHP0606,Australia,511.5,Low,Pending
+SHP0607,USA,729.8,High,In Transit
+SHP0608,Australia,452.8,Critical,Pending
+SHP0609,EU,479.3,Medium,Cleared Customs
+SHP0610,EU,34.0,Low,Delivered
+SHP0611,Japan,960.7,Medium,Delivered
+SHP0612,Japan,44.1,High,Pending
+SHP0613,Australia,518.6,Low,Cleared Customs
+SHP0614,Brazil,833.7,High,Pending
+SHP0615,Australia,947.5,Low,Pending
+SHP0616,Australia,714.3,Low,Cleared Customs
+SHP0617,Brazil,307.3,High,Cleared Customs
+SHP0618,Australia,684.7,High,In Transit
+SHP0619,Vietnam,452.2,Low,In Transit
+SHP0620,Brazil,102.0,Critical,In Transit
+SHP0621,EU,226.8,Critical,Pending
+SHP0622,EU,937.3,Medium,Cleared Customs
+SHP0623,Japan,760.2,Medium,Delivered
+SHP0624,EU,61.4,Critical,Delivered
+SHP0625,USA,805.5,Critical,Delivered
+SHP0626,USA,932.0,High,Pending
+SHP0627,EU,72.7,Critical,Cleared Customs
+SHP0628,USA,268.2,Critical,Delivered
+SHP0629,Brazil,961.5,Medium,In Transit
+SHP0630,EU,820.6,High,Pending
+SHP0631,USA,322.2,High,Pending
+SHP0632,Brazil,923.3,Low,Cleared Customs
+SHP0633,Vietnam,550.2,High,Cleared Customs
+SHP0634,USA,907.5,Critical,Delivered
+SHP0635,Vietnam,53.8,Medium,In Transit
+SHP0636,USA,810.7,Critical,Pending
+SHP0637,Japan,52.3,Low,Cleared Customs
+SHP0638,EU,241.0,Medium,In Transit
+SHP0639,Australia,419.0,Low,Pending
+SHP0640,Vietnam,122.4,Low,In Transit
+SHP0641,Japan,257.6,Critical,Cleared Customs
+SHP0642,Brazil,913.8,High,Cleared Customs
+SHP0643,USA,218.8,Critical,Delivered
+SHP0644,Brazil,559.9,High,Cleared Customs
+SHP0645,Brazil,819.8,Medium,In Transit
+SHP0646,Vietnam,323.3,Medium,In Transit
+SHP0647,USA,51.5,Critical,Cleared Customs
+SHP0648,EU,589.4,Medium,Delivered
+SHP0649,Brazil,772.8,Low,Delivered
+SHP0650,Japan,875.0,Low,Cleared Customs
+SHP0651,Vietnam,248.9,Medium,In Transit
+SHP0652,Australia,259.6,High,In Transit
+SHP0653,EU,433.7,Low,Cleared Customs
+SHP0654,Brazil,713.8,Medium,Pending
+SHP0655,Japan,713.3,High,Pending
+SHP0656,Australia,875.4,Medium,Cleared Customs
+SHP0657,USA,292.9,Low,Cleared Customs
+SHP0658,EU,232.7,Medium,In Transit
+SHP0659,Australia,228.4,High,Pending
+SHP0660,Australia,90.3,Critical,Delivered
+SHP0661,USA,394.1,Medium,Delivered
+SHP0662,Australia,10.3,Critical,Cleared Customs
+SHP0663,Japan,992.7,High,In Transit
+SHP0664,Brazil,320.3,Critical,Pending
+SHP0665,Japan,719.5,Critical,Cleared Customs
+SHP0666,Japan,283.1,High,Pending
+SHP0667,Brazil,729.4,High,Cleared Customs
+SHP0668,Vietnam,887.4,High,Cleared Customs
+SHP0669,Japan,22.0,High,In Transit
+SHP0670,Vietnam,620.5,High,Cleared Customs
+SHP0671,EU,979.7,Low,Delivered
+SHP0672,Vietnam,962.9,Medium,Cleared Customs
+SHP0673,Brazil,105.0,Critical,Delivered
+SHP0674,Brazil,656.8,Medium,Delivered
+SHP0675,USA,534.4,Critical,Cleared Customs
+SHP0676,Brazil,953.2,Low,Delivered
+SHP0677,EU,195.8,Low,Delivered
+SHP0678,EU,591.5,Medium,Cleared Customs
+SHP0679,Vietnam,760.4,Low,Pending
+SHP0680,Brazil,116.0,Low,In Transit
+SHP0681,Japan,650.8,Medium,In Transit
+SHP0682,Brazil,857.2,High,Delivered
+SHP0683,USA,570.8,Critical,In Transit
+SHP0684,Brazil,237.9,Low,Delivered
+SHP0685,Australia,306.9,Critical,Pending
+SHP0686,Australia,738.0,High,In Transit
+SHP0687,Japan,837.3,Critical,In Transit
+SHP0688,USA,45.0,Low,Delivered
+SHP0689,Japan,86.1,High,Pending
+SHP0690,EU,851.0,Medium,Pending
+SHP0691,Australia,929.3,Low,Cleared Customs
+SHP0692,Vietnam,546.4,Critical,Cleared Customs
+SHP0693,Brazil,207.5,Medium,Pending
+SHP0694,Japan,706.8,High,Pending
+SHP0695,Brazil,520.2,High,Pending
+SHP0696,Australia,167.6,Critical,Pending
+SHP0697,Vietnam,607.9,High,Delivered
+SHP0698,Australia,769.4,Medium,Delivered
+SHP0699,Vietnam,683.0,Critical,Cleared Customs
+SHP0700,Australia,816.5,Low,In Transit
+SHP0701,Vietnam,537.1,Medium,In Transit
+SHP0702,Vietnam,868.8,Medium,Delivered
+SHP0703,Vietnam,956.7,High,Delivered
+SHP0704,EU,27.9,Critical,Cleared Customs
+SHP0705,USA,79.0,High,Pending
+SHP0706,Australia,874.6,Low,Delivered
+SHP0707,USA,789.8,Low,Delivered
+SHP0708,Australia,959.7,Medium,Pending
+SHP0709,Australia,658.6,Medium,Cleared Customs
+SHP0710,EU,420.9,Low,In Transit
+SHP0711,Australia,606.4,Low,In Transit
+SHP0712,Vietnam,318.9,Low,In Transit
+SHP0713,Brazil,325.4,High,In Transit
+SHP0714,EU,28.8,High,Cleared Customs
+SHP0715,Brazil,340.6,High,Cleared Customs
+SHP0716,EU,674.7,Critical,Pending
+SHP0717,Japan,456.5,Critical,In Transit
+SHP0718,Brazil,818.3,Medium,Pending
+SHP0719,Australia,501.7,High,In Transit
+SHP0720,Japan,984.4,Low,Delivered
+SHP0721,EU,144.2,Critical,Delivered
+SHP0722,Vietnam,236.3,Low,In Transit
+SHP0723,USA,618.6,High,Pending
+SHP0724,Australia,297.3,High,In Transit
+SHP0725,Brazil,381.0,High,In Transit
+SHP0726,EU,479.7,High,Pending
+SHP0727,Australia,972.4,Critical,Delivered
+SHP0728,Australia,522.5,Low,Cleared Customs
+SHP0729,Japan,168.1,Low,In Transit
+SHP0730,USA,680.6,High,In Transit
+SHP0731,EU,757.2,Critical,Delivered
+SHP0732,Brazil,17.6,Critical,Delivered
+SHP0733,Brazil,58.3,High,Cleared Customs
+SHP0734,EU,509.4,Critical,Delivered
+SHP0735,Australia,748.1,Low,In Transit
+SHP0736,Australia,295.2,High,Delivered
+SHP0737,USA,71.0,Medium,In Transit
+SHP0738,Vietnam,330.9,Medium,In Transit
+SHP0739,Japan,322.1,Low,Delivered
+SHP0740,Australia,410.1,Low,Delivered
+SHP0741,Brazil,272.6,Critical,Pending
+SHP0742,Brazil,226.2,Low,Delivered
+SHP0743,EU,78.0,Medium,Pending
+SHP0744,Brazil,887.4,Critical,In Transit
+SHP0745,Brazil,58.6,High,Delivered
+SHP0746,USA,513.4,Critical,Delivered
+SHP0747,EU,68.8,Critical,Pending
+SHP0748,Brazil,309.3,Critical,Delivered
+SHP0749,Japan,208.3,Medium,Delivered
+SHP0750,Japan,558.3,Critical,Delivered
+SHP0751,EU,65.3,High,Cleared Customs
+SHP0752,Brazil,869.8,Medium,In Transit
+SHP0753,USA,130.1,Critical,Cleared Customs
+SHP0754,Australia,388.6,High,Delivered
+SHP0755,EU,454.6,Medium,In Transit
+SHP0756,Brazil,699.3,High,In Transit
+SHP0757,Japan,359.5,Low,In Transit
+SHP0758,Australia,412.4,Critical,Delivered
+SHP0759,Brazil,243.7,Critical,Delivered
+SHP0760,Australia,99.8,High,Delivered
+SHP0761,USA,23.1,Low,Pending
+SHP0762,USA,66.7,Medium,Delivered
+SHP0763,EU,891.0,Critical,Pending
+SHP0764,Japan,15.4,Medium,Pending
+SHP0765,Japan,927.3,Low,In Transit
+SHP0766,Japan,242.5,Low,Pending
+SHP0767,Australia,307.7,High,Cleared Customs
+SHP0768,Vietnam,369.4,High,Cleared Customs
+SHP0769,Brazil,585.2,Low,Pending
+SHP0770,USA,359.3,High,Pending
+SHP0771,Australia,891.0,Low,Cleared Customs
+SHP0772,Australia,351.1,Low,Delivered
+SHP0773,Brazil,695.0,Medium,Delivered
+SHP0774,USA,60.4,Medium,In Transit
+SHP0775,Japan,458.4,High,In Transit
+SHP0776,Vietnam,307.0,Medium,In Transit
+SHP0777,USA,574.7,Medium,Cleared Customs
+SHP0778,Australia,673.9,Low,Cleared Customs
+SHP0779,Japan,378.9,Critical,Delivered
+SHP0780,Vietnam,923.1,High,In Transit
+SHP0781,Australia,828.8,Medium,Pending
+SHP0782,Vietnam,139.6,Low,Cleared Customs
+SHP0783,Brazil,451.4,Low,In Transit
+SHP0784,USA,900.1,High,Cleared Customs
+SHP0785,USA,474.8,Low,Cleared Customs
+SHP0786,Australia,936.7,High,In Transit
+SHP0787,Australia,459.8,Medium,Pending
+SHP0788,Brazil,774.2,Critical,Pending
+SHP0789,Japan,860.0,High,Pending
+SHP0790,Vietnam,290.4,High,Pending
+SHP0791,Brazil,521.0,High,Cleared Customs
+SHP0792,Japan,105.4,Low,Cleared Customs
+SHP0793,EU,979.6,Low,Delivered
+SHP0794,Australia,409.7,High,In Transit
+SHP0795,Australia,918.0,Low,Cleared Customs
+SHP0796,Vietnam,104.7,Low,Pending
+SHP0797,Vietnam,591.3,High,In Transit
+SHP0798,EU,455.9,Low,Delivered
+SHP0799,Japan,597.9,High,Delivered
+SHP0800,Brazil,535.4,Low,In Transit
+SHP0801,Japan,947.7,High,Pending
+SHP0802,EU,228.8,Critical,Delivered
+SHP0803,Brazil,435.6,Low,Delivered
+SHP0804,Brazil,374.0,Critical,Delivered
+SHP0805,Vietnam,902.6,High,Pending
+SHP0806,Japan,959.1,Low,In Transit
+SHP0807,EU,773.0,Medium,Pending
+SHP0808,EU,746.2,Medium,In Transit
+SHP0809,Vietnam,203.3,Low,In Transit
+SHP0810,Brazil,618.7,Medium,Pending
+SHP0811,EU,605.1,Critical,Pending
+SHP0812,Brazil,526.7,Critical,Delivered
+SHP0813,Vietnam,810.6,Critical,In Transit
+SHP0814,Japan,722.3,Low,Delivered
+SHP0815,Brazil,292.0,Critical,Pending
+SHP0816,Australia,537.4,Critical,In Transit
+SHP0817,Vietnam,919.0,Low,Cleared Customs
+SHP0818,Australia,212.7,High,In Transit
+SHP0819,Australia,711.5,Low,In Transit
+SHP0820,Japan,146.9,High,In Transit
+SHP0821,Vietnam,172.2,Medium,In Transit
+SHP0822,EU,269.8,High,In Transit
+SHP0823,Japan,553.4,Low,Pending
+SHP0824,USA,636.2,Medium,Cleared Customs
+SHP0825,Brazil,227.7,Low,In Transit
+SHP0826,Australia,391.0,Critical,In Transit
+SHP0827,USA,86.4,High,In Transit
+SHP0828,Australia,391.3,High,Cleared Customs
+SHP0829,EU,988.7,Low,Delivered
+SHP0830,Brazil,523.9,Medium,Delivered
+SHP0831,Brazil,369.1,Low,Cleared Customs
+SHP0832,USA,504.8,Critical,Delivered
+SHP0833,Japan,630.2,Low,Pending
+SHP0834,EU,783.9,Critical,In Transit
+SHP0835,Brazil,449.6,Low,Pending
+SHP0836,USA,584.8,Critical,Cleared Customs
+SHP0837,Japan,791.4,Critical,Pending
+SHP0838,Japan,815.7,High,Delivered
+SHP0839,Vietnam,252.6,Low,Cleared Customs
+SHP0840,EU,846.8,Critical,Cleared Customs
+SHP0841,Japan,840.2,High,Cleared Customs
+SHP0842,Vietnam,498.6,High,Cleared Customs
+SHP0843,USA,68.6,Medium,Delivered
+SHP0844,Japan,264.0,Low,Delivered
+SHP0845,Japan,493.4,Medium,Pending
+SHP0846,Australia,887.3,Medium,In Transit
+SHP0847,Japan,385.2,Medium,Delivered
+SHP0848,Australia,428.8,Critical,In Transit
+SHP0849,Brazil,959.7,Medium,Pending
+SHP0850,EU,141.0,Medium,Delivered
+SHP0851,Brazil,271.9,Critical,In Transit
+SHP0852,EU,372.7,Low,In Transit
+SHP0853,EU,202.2,Medium,Delivered
+SHP0854,Brazil,146.8,Low,In Transit
+SHP0855,Brazil,851.5,Low,Pending
+SHP0856,Japan,89.4,High,Delivered
+SHP0857,Brazil,359.6,Critical,Pending
+SHP0858,Japan,308.2,Low,In Transit
+SHP0859,Japan,354.1,Critical,In Transit
+SHP0860,Japan,504.6,Low,Pending
+SHP0861,EU,152.5,Medium,Cleared Customs
+SHP0862,USA,959.7,Medium,Pending
+SHP0863,EU,312.6,Medium,Delivered
+SHP0864,EU,207.8,Low,Pending
+SHP0865,EU,889.5,Medium,Delivered
+SHP0866,Japan,702.2,Low,Pending
+SHP0867,Vietnam,16.7,High,Cleared Customs
+SHP0868,Brazil,932.0,Medium,Delivered
+SHP0869,Japan,18.6,Critical,Pending
+SHP0870,Brazil,662.4,Critical,Delivered
+SHP0871,Australia,403.8,High,Pending
+SHP0872,Vietnam,387.5,Low,In Transit
+SHP0873,Vietnam,22.1,Low,Pending
+SHP0874,Japan,899.2,Low,Pending
+SHP0875,Vietnam,311.4,Medium,Delivered
+SHP0876,USA,917.3,Medium,Pending
+SHP0877,USA,534.4,Low,Pending
+SHP0878,Australia,971.0,Medium,In Transit
+SHP0879,Brazil,869.3,High,Pending
+SHP0880,EU,588.3,Critical,Pending
+SHP0881,Brazil,895.0,High,Pending
+SHP0882,Brazil,413.5,High,In Transit
+SHP0883,Japan,823.0,High,Delivered
+SHP0884,USA,752.7,Medium,In Transit
+SHP0885,EU,857.3,Critical,Pending
+SHP0886,Japan,307.8,Medium,Cleared Customs
+SHP0887,Brazil,172.5,Critical,In Transit
+SHP0888,Australia,433.3,Critical,Pending
+SHP0889,USA,682.9,Medium,Pending
+SHP0890,Brazil,461.8,Medium,In Transit
+SHP0891,Brazil,182.2,High,Cleared Customs
+SHP0892,USA,875.9,High,Cleared Customs
+SHP0893,EU,776.0,Low,Cleared Customs
+SHP0894,EU,375.8,Critical,Pending
+SHP0895,USA,417.1,Critical,Pending
+SHP0896,USA,489.6,Critical,In Transit
+SHP0897,Australia,11.7,Critical,Pending
+SHP0898,EU,995.3,Medium,Cleared Customs
+SHP0899,Brazil,871.9,Medium,Pending
+SHP0900,Vietnam,218.4,Critical,Cleared Customs
+SHP0901,USA,683.9,Critical,Delivered
+SHP0902,USA,56.2,Low,Pending
+SHP0903,Brazil,254.5,Medium,Delivered
+SHP0904,EU,939.0,Critical,In Transit
+SHP0905,Vietnam,22.9,Low,Cleared Customs
+SHP0906,Brazil,419.5,Critical,Delivered
+SHP0907,USA,905.4,High,Pending
+SHP0908,USA,12.4,Low,Cleared Customs
+SHP0909,Brazil,99.4,Medium,Delivered
+SHP0910,Brazil,581.6,High,Delivered
+SHP0911,USA,676.6,Critical,Pending
+SHP0912,EU,887.1,High,Pending
+SHP0913,Brazil,91.1,Critical,In Transit
+SHP0914,USA,535.4,Medium,Pending
+SHP0915,Japan,107.6,High,Delivered
+SHP0916,Japan,940.3,Critical,In Transit
+SHP0917,EU,899.5,Low,Cleared Customs
+SHP0918,Brazil,917.7,Low,Delivered
+SHP0919,Japan,249.8,High,Pending
+SHP0920,USA,938.9,Medium,Pending
+SHP0921,Australia,268.0,High,In Transit
+SHP0922,Japan,582.8,Medium,Cleared Customs
+SHP0923,USA,963.6,Critical,Pending
+SHP0924,USA,133.0,Critical,Delivered
+SHP0925,Japan,14.1,Medium,In Transit
+SHP0926,USA,691.7,Critical,Delivered
+SHP0927,Brazil,582.4,Medium,Delivered
+SHP0928,Japan,88.4,High,Delivered
+SHP0929,Brazil,516.8,Medium,Cleared Customs
+SHP0930,EU,408.4,Medium,Cleared Customs
+SHP0931,Vietnam,976.1,High,In Transit
+SHP0932,USA,127.9,High,In Transit
+SHP0933,Vietnam,240.4,Critical,Cleared Customs
+SHP0934,Australia,293.2,Low,Cleared Customs
+SHP0935,Brazil,734.1,Low,Pending
+SHP0936,USA,65.3,Low,Pending
+SHP0937,Australia,166.9,Medium,Pending
+SHP0938,Vietnam,298.9,Low,Cleared Customs
+SHP0939,Australia,119.2,Medium,In Transit
+SHP0940,EU,96.5,Critical,Pending
+SHP0941,USA,431.5,Medium,Cleared Customs
+SHP0942,USA,799.3,Medium,In Transit
+SHP0943,Vietnam,280.2,High,In Transit
+SHP0944,Vietnam,550.7,Medium,Delivered
+SHP0945,Japan,280.1,Medium,Pending
+SHP0946,Vietnam,810.2,Low,In Transit
+SHP0947,USA,283.2,High,In Transit
+SHP0948,EU,869.5,High,Pending
+SHP0949,Australia,543.5,Low,Pending
+SHP0950,Japan,932.3,High,Delivered
+SHP0951,EU,472.1,Critical,Pending
+SHP0952,Australia,341.5,Medium,Cleared Customs
+SHP0953,Japan,361.6,Critical,Pending
+SHP0954,Vietnam,257.8,High,In Transit
+SHP0955,Australia,316.1,Medium,Cleared Customs
+SHP0956,Brazil,517.5,Medium,Pending
+SHP0957,Vietnam,830.5,High,Delivered
+SHP0958,Japan,730.3,Low,In Transit
+SHP0959,Brazil,185.3,Medium,In Transit
+SHP0960,Australia,957.8,Critical,Delivered
+SHP0961,Australia,75.9,High,Delivered
+SHP0962,Japan,324.0,Critical,Delivered
+SHP0963,Japan,839.8,Low,Delivered
+SHP0964,USA,566.3,High,Cleared Customs
+SHP0965,Vietnam,172.1,Low,Delivered
+SHP0966,Japan,204.9,Low,Pending
+SHP0967,EU,406.9,Critical,In Transit
+SHP0968,EU,501.2,Low,Cleared Customs
+SHP0969,EU,864.3,High,Cleared Customs
+SHP0970,Australia,986.4,Medium,Delivered
+SHP0971,Australia,571.0,High,Delivered
+SHP0972,USA,871.8,Low,In Transit
+SHP0973,Japan,89.7,Critical,In Transit
+SHP0974,Vietnam,243.7,Medium,In Transit
+SHP0975,Brazil,464.3,Critical,Delivered
+SHP0976,Australia,298.0,Medium,Pending
+SHP0977,EU,332.8,Critical,Cleared Customs
+SHP0978,Australia,465.3,Critical,Delivered
+SHP0979,Japan,30.3,Critical,Delivered
+SHP0980,Australia,157.6,Low,Delivered
+SHP0981,Japan,795.6,Critical,In Transit
+SHP0982,Brazil,331.4,High,Delivered
+SHP0983,Vietnam,737.6,High,Cleared Customs
+SHP0984,EU,53.0,Low,Pending
+SHP0985,EU,683.0,High,Delivered
+SHP0986,Brazil,908.0,Low,In Transit
+SHP0987,EU,958.8,Low,Pending
+SHP0988,Brazil,684.9,High,Delivered
+SHP0989,Japan,380.7,Critical,Delivered
+SHP0990,Japan,40.0,Low,Pending
+SHP0991,USA,922.9,Low,Cleared Customs
+SHP0992,USA,163.9,High,In Transit
+SHP0993,Vietnam,737.4,Low,Cleared Customs
+SHP0994,Brazil,304.8,Low,Pending
+SHP0995,USA,870.1,Critical,Cleared Customs
+SHP0996,Japan,872.5,Critical,In Transit
+SHP0997,Japan,401.3,Low,In Transit
+SHP0998,Brazil,720.7,Critical,In Transit
+SHP0999,EU,685.3,High,Delivered
+SHP1000,EU,436.8,Medium,Delivered
