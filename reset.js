@@ -3,7 +3,7 @@ import fs from 'fs';
 const filesToDelete = [
     'USA_Node_storage.json',
     'EU_Node_storage.json',
-    'Global_Node_storage.json', // Thay bằng tên file thực tế của Node 3 nếu mày đặt tên khác
+    'Global_Node_storage.json', 
     'failed_queue.json'
 ];
 
