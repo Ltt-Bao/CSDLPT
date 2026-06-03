@@ -2,7 +2,6 @@ import csv
 import random
 
 def generate_logistics_data(filename="dataset.csv", num_rows=1000):
-    # Cố tình đưa 'USA' và 'EU' vào để phục vụ tập predicate của đề bài
     countries = ['USA', 'EU', 'Vietnam', 'Japan', 'Brazil', 'Australia']
     priorities = ['Low', 'Medium', 'High', 'Critical']
     statuses = ['Pending', 'In Transit', 'Cleared Customs', 'Delivered']
